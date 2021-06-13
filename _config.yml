@@ -11,3 +11,9 @@ aux_links:
 plugins:
   - jekyll-seo-tag
 ga_tracking: G-2M7CBGKQV8
+
+gh_edit_link: true
+gh_edit_link_text: "Corrections? Edit this page on GitHub!"
+gh_edit_repository: "https://github.com/DevSecTools/DevSecTools.Docs"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
