@@ -25,7 +25,7 @@ While dangling `CNAME` records are more readily encountered, `NS`, `MX`, `A` and
 
 ## Exploitation (Why is this a problem?)
 
-A dangling DNS record allows an adversary to establish a service on one of your hostnames, this is referred to as a 'subdomain takeover'. As the adversary has full control over content served by the host, they can also register an SSL certificate for the compromised hostname using [HTTP Challenge](https://datatracker.ietf.org/doc/html/rfc8555#section-8.3) verification.
+A dangling DNS record allows an adversary to establish a service on one of your hostnames, this is referred to as a 'subdomain takeover'. For most takeovers (all except `MX`), the adversary has full control over content served by the host, and can therefore register an SSL certificate for the compromised hostname using [HTTP Challenge](https://datatracker.ietf.org/doc/html/rfc8555#section-8.3) verification.
 
 For example, take the following hypothetical `CNAME` record:
 
