@@ -1,2 +1,13 @@
+title: The Docs (devsectools.com)
+url: https://docs.devsectools.com
+
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
+
+aux_links:
+  "Back to www.devsectools.com":
+    - "https://www.devsectools.com"
+
+plugins:
+  - jekyll-seo-tag
+ga_tracking: G-2M7CBGKQV8
