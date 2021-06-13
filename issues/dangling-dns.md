@@ -64,8 +64,8 @@ Complementary controls:
 
 ## Read More
 
-https://developer.mozilla.org/en-US/docs/Web/Security/Subdomain_takeovers
+<https://developer.mozilla.org/en-US/docs/Web/Security/Subdomain_takeovers>
 
-https://www.hackerone.com/blog/Guide-Subdomain-Takeovers
+<https://www.hackerone.com/blog/Guide-Subdomain-Takeovers>
 
-https://0xpatrik.com/subdomain-takeover-basics/
+<https://0xpatrik.com/subdomain-takeover-basics/>
