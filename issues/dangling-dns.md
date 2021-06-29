@@ -16,7 +16,7 @@ title: Dangling DNS
 
 ## Description
 
-A dangling DNS record is a DNS a record that resolves to a location that is no longer under your control. Typically these arise as a result of an incomplete decommissioning but there are several ways they can be inadvertently introduced including:
+A dangling DNS record is a DNS record that resolves to a location that is no longer under your control. Typically these arise as a result of an incomplete decommissioning but there are several ways they can be inadvertently introduced including:
 * Deleting a service, but forgetting to delete at least one of the DNS records that pointed to the service.
 * Provisioning DNS records *prior* to provisioning the new service that the DNS records resolve to.
 * Leaving DNS records behind during service migration or consolidation.
