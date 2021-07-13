@@ -3,7 +3,7 @@ layout: default
 title: TLS Error
 ---
 
-# Dangling DNS
+# TLS Error
 
 <details open markdown="block">
   <summary>

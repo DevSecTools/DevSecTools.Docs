@@ -3,7 +3,7 @@ layout: default
 title: Available without TLS
 ---
 
-# Dangling DNS
+# Available without TLS
 
 <details open markdown="block">
   <summary>
